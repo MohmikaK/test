@@ -1,5 +1,0 @@
-{{#user}}
-Name: Mohmika Kapoor
-Skills: HTML, CSS, JS, React.js, ML
-Email: kapoormohmika@gmail.com
-{{/user}}
